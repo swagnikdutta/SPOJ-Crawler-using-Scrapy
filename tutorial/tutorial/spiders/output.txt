@@ -1,0 +1,1062 @@
+File url: 		http://www.spoj.com/files/src/16731976/
+Download url: 	http://www.spoj.com/files/src/save/16731976
+Language: 		C++
+Problem name: 	ABA12D
+
+
+File url: 		http://www.spoj.com/files/src/13755878/
+Download url: 	http://www.spoj.com/files/src/save/13755878
+Language: 		C++
+Problem name: 	STABLEMP
+
+
+File url: 		http://www.spoj.com/files/src/9894524/
+Download url: 	http://www.spoj.com/files/src/save/9894524
+Language: 		JAVA
+Problem name: 	BISHOPS
+
+
+File url: 		http://www.spoj.com/files/src/11903236/
+Download url: 	http://www.spoj.com/files/src/save/11903236
+Language: 		C++
+Problem name: 	CSTREET
+
+
+File url: 		http://www.spoj.com/files/src/13699215/
+Download url: 	http://www.spoj.com/files/src/save/13699215
+Language: 		C++
+Problem name: 	BINSTIRL
+
+
+File url: 		http://www.spoj.com/files/src/11835566/
+Download url: 	http://www.spoj.com/files/src/save/11835566
+Language: 		C++
+Problem name: 	SPEED
+
+
+File url: 		http://www.spoj.com/files/src/11141221/
+Download url: 	http://www.spoj.com/files/src/save/11141221
+Language: 		JAVA
+Problem name: 	PERMUT1
+
+
+File url: 		http://www.spoj.com/files/src/10835638/
+Download url: 	http://www.spoj.com/files/src/save/10835638
+Language: 		JAVA
+Problem name: 	CRDS
+
+
+File url: 		http://www.spoj.com/files/src/10926587/
+Download url: 	http://www.spoj.com/files/src/save/10926587
+Language: 		C++
+Problem name: 	MAJOR
+
+
+File url: 		http://www.spoj.com/files/src/9604263/
+Download url: 	http://www.spoj.com/files/src/save/9604263
+Language: 		JAVA
+Problem name: 	ABSYS
+
+
+File url: 		http://www.spoj.com/files/src/9723041/
+Download url: 	http://www.spoj.com/files/src/save/9723041
+Language: 		JAVA
+Problem name: 	ACODE
+
+
+File url: 		http://www.spoj.com/files/src/13728867/
+Download url: 	http://www.spoj.com/files/src/save/13728867
+Language: 		C++
+Problem name: 	GSHOP
+
+
+File url: 		http://www.spoj.com/files/src/12061602/
+Download url: 	http://www.spoj.com/files/src/save/12061602
+Language: 		JAVA
+Problem name: 	M3TILE
+
+
+File url: 		http://www.spoj.com/files/src/10833618/
+Download url: 	http://www.spoj.com/files/src/save/10833618
+Language: 		JAVA
+Problem name: 	GLJIVE
+
+
+File url: 		http://www.spoj.com/files/src/9882821/
+Download url: 	http://www.spoj.com/files/src/save/9882821
+Language: 		JAVA
+Problem name: 	PERMUT2
+
+
+File url: 		http://www.spoj.com/files/src/9596588/
+Download url: 	http://www.spoj.com/files/src/save/9596588
+Language: 		JAVA
+Problem name: 	ONP
+
+
+File url: 		http://www.spoj.com/files/src/13568092/
+Download url: 	http://www.spoj.com/files/src/save/13568092
+Language: 		C++
+Problem name: 	KGSS
+
+
+File url: 		http://www.spoj.com/files/src/16329225/
+Download url: 	http://www.spoj.com/files/src/save/16329225
+Language: 		C++
+Problem name: 	SHAKTI
+
+
+File url: 		http://www.spoj.com/files/src/11015770/
+Download url: 	http://www.spoj.com/files/src/save/11015770
+Language: 		JAVA
+Problem name: 	FENCE1
+
+
+File url: 		http://www.spoj.com/files/src/11845438/
+Download url: 	http://www.spoj.com/files/src/save/11845438
+Language: 		C++
+Problem name: 	CHOCOLA
+
+
+File url: 		http://www.spoj.com/files/src/9951486/
+Download url: 	http://www.spoj.com/files/src/save/9951486
+Language: 		JAVA
+Problem name: 	GIRLSNBS
+
+
+File url: 		http://www.spoj.com/files/src/11887361/
+Download url: 	http://www.spoj.com/files/src/save/11887361
+Language: 		C++
+Problem name: 	ASSIST
+
+
+File url: 		http://www.spoj.com/files/src/13536086/
+Download url: 	http://www.spoj.com/files/src/save/13536086
+Language: 		C++
+Problem name: 	SEGSQRSS
+
+
+File url: 		http://www.spoj.com/files/src/9829924/
+Download url: 	http://www.spoj.com/files/src/save/9829924
+Language: 		JAVA
+Problem name: 	JULKA
+
+
+File url: 		http://www.spoj.com/files/src/9596654/
+Download url: 	http://www.spoj.com/files/src/save/9596654
+Language: 		JAVA
+Problem name: 	FCTRL2
+
+
+File url: 		http://www.spoj.com/files/src/11898439/
+Download url: 	http://www.spoj.com/files/src/save/11898439
+Language: 		C++
+Problem name: 	CHICAGO
+
+
+File url: 		http://www.spoj.com/files/src/11954879/
+Download url: 	http://www.spoj.com/files/src/save/11954879
+Language: 		C++
+Problem name: 	ZSUM
+
+
+File url: 		http://www.spoj.com/files/src/13927357/
+Download url: 	http://www.spoj.com/files/src/save/13927357
+Language: 		C++
+Problem name: 	ONEZERO
+
+
+File url: 		http://www.spoj.com/files/src/9598697/
+Download url: 	http://www.spoj.com/files/src/save/9598697
+Language: 		JAVA
+Problem name: 	FCTRL
+
+
+File url: 		http://www.spoj.com/files/src/13647661/
+Download url: 	http://www.spoj.com/files/src/save/13647661
+Language: 		C++
+Problem name: 	JNEXT
+
+
+File url: 		http://www.spoj.com/files/src/19315292/
+Download url: 	http://www.spoj.com/files/src/save/19315292
+Language: 		C++
+Problem name: 	OLOLO
+
+
+File url: 		http://www.spoj.com/files/src/11828273/
+Download url: 	http://www.spoj.com/files/src/save/11828273
+Language: 		JAVA
+Problem name: 	WORDS1
+
+
+File url: 		http://www.spoj.com/files/src/9884297/
+Download url: 	http://www.spoj.com/files/src/save/9884297
+Language: 		JAVA
+Problem name: 	ARMY
+
+
+File url: 		http://www.spoj.com/files/src/13875904/
+Download url: 	http://www.spoj.com/files/src/save/13875904
+Language: 		C++
+Problem name: 	CATM
+
+
+File url: 		http://www.spoj.com/files/src/11877407/
+Download url: 	http://www.spoj.com/files/src/save/11877407
+Language: 		JAVA
+Problem name: 	SCPC11B
+
+
+File url: 		http://www.spoj.com/files/src/9829685/
+Download url: 	http://www.spoj.com/files/src/save/9829685
+Language: 		JAVA
+Problem name: 	SAMER08F
+
+
+File url: 		http://www.spoj.com/files/src/11166601/
+Download url: 	http://www.spoj.com/files/src/save/11166601
+Language: 		JAVA
+Problem name: 	FAVDICE
+
+
+File url: 		http://www.spoj.com/files/src/9940529/
+Download url: 	http://www.spoj.com/files/src/save/9940529
+Language: 		JAVA
+Problem name: 	OFFSIDE
+
+
+File url: 		http://www.spoj.com/files/src/9950332/
+Download url: 	http://www.spoj.com/files/src/save/9950332
+Language: 		JAVA
+Problem name: 	JAVAC
+
+
+File url: 		http://www.spoj.com/files/src/10092505/
+Download url: 	http://www.spoj.com/files/src/save/10092505
+Language: 		JAVA
+Problem name: 	CANTON
+
+
+File url: 		http://www.spoj.com/files/src/11778257/
+Download url: 	http://www.spoj.com/files/src/save/11778257
+Language: 		JAVA
+Problem name: 	ARRAYSUB
+
+
+File url: 		http://www.spoj.com/files/src/13628983/
+Download url: 	http://www.spoj.com/files/src/save/13628983
+Language: 		JAVA
+Problem name: 	ARITH2
+
+
+File url: 		http://www.spoj.com/files/src/11835965/
+Download url: 	http://www.spoj.com/files/src/save/11835965
+Language: 		C++
+Problem name: 	RPLC
+
+
+File url: 		http://www.spoj.com/files/src/11999234/
+Download url: 	http://www.spoj.com/files/src/save/11999234
+Language: 		C++
+Problem name: 	NY10E
+
+
+File url: 		http://www.spoj.com/files/src/10179246/
+Download url: 	http://www.spoj.com/files/src/save/10179246
+Language: 		JAVA
+Problem name: 	INVCNT
+
+
+File url: 		http://www.spoj.com/files/src/10820129/
+Download url: 	http://www.spoj.com/files/src/save/10820129
+Language: 		JAVA
+Problem name: 	WORDCNT
+
+
+File url: 		http://www.spoj.com/files/src/9837268/
+Download url: 	http://www.spoj.com/files/src/save/9837268
+Language: 		JAVA
+Problem name: 	FASHION
+
+
+File url: 		http://www.spoj.com/files/src/9848904/
+Download url: 	http://www.spoj.com/files/src/save/9848904
+Language: 		JAVA
+Problem name: 	CANDY3
+
+
+File url: 		http://www.spoj.com/files/src/16312646/
+Download url: 	http://www.spoj.com/files/src/save/16312646
+Language: 		C++
+Problem name: 	APS
+
+
+File url: 		http://www.spoj.com/files/src/11131448/
+Download url: 	http://www.spoj.com/files/src/save/11131448
+Language: 		JAVA
+Problem name: 	ROOTCIPH
+
+
+File url: 		http://www.spoj.com/files/src/9905637/
+Download url: 	http://www.spoj.com/files/src/save/9905637
+Language: 		JAVA
+Problem name: 	WILLITST
+
+
+File url: 		http://www.spoj.com/files/src/11015622/
+Download url: 	http://www.spoj.com/files/src/save/11015622
+Language: 		JAVA
+Problem name: 	NY10A
+
+
+File url: 		http://www.spoj.com/files/src/13616649/
+Download url: 	http://www.spoj.com/files/src/save/13616649
+Language: 		C++
+Problem name: 	IITKWPCB
+
+
+File url: 		http://www.spoj.com/files/src/9838524/
+Download url: 	http://www.spoj.com/files/src/save/9838524
+Language: 		JAVA
+Problem name: 	CANDY
+
+
+File url: 		http://www.spoj.com/files/src/13584364/
+Download url: 	http://www.spoj.com/files/src/save/13584364
+Language: 		C++
+Problem name: 	FARIDA
+
+
+File url: 		http://www.spoj.com/files/src/10103791/
+Download url: 	http://www.spoj.com/files/src/save/10103791
+Language: 		C++
+Problem name: 	AP2
+
+
+File url: 		http://www.spoj.com/files/src/13694837/
+Download url: 	http://www.spoj.com/files/src/save/13694837
+Language: 		C++
+Problem name: 	ROCK
+
+
+File url: 		http://www.spoj.com/files/src/11781460/
+Download url: 	http://www.spoj.com/files/src/save/11781460
+Language: 		JAVA
+Problem name: 	NSYSTEM
+
+
+File url: 		http://www.spoj.com/files/src/10097667/
+Download url: 	http://www.spoj.com/files/src/save/10097667
+Language: 		JAVA
+Problem name: 	HUBULLU
+
+
+File url: 		http://www.spoj.com/files/src/11086598/
+Download url: 	http://www.spoj.com/files/src/save/11086598
+Language: 		JAVA
+Problem name: 	UJ
+
+
+File url: 		http://www.spoj.com/files/src/13874448/
+Download url: 	http://www.spoj.com/files/src/save/13874448
+Language: 		C++
+Problem name: 	CAM5
+
+
+File url: 		http://www.spoj.com/files/src/10828563/
+Download url: 	http://www.spoj.com/files/src/save/10828563
+Language: 		JAVA
+Problem name: 	FACEFRND
+
+
+File url: 		http://www.spoj.com/files/src/12016409/
+Download url: 	http://www.spoj.com/files/src/save/12016409
+Language: 		JAVA
+Problem name: 	ANARC09B
+
+
+File url: 		http://www.spoj.com/files/src/9828539/
+Download url: 	http://www.spoj.com/files/src/save/9828539
+Language: 		JAVA
+Problem name: 	NSTEPS
+
+
+File url: 		http://www.spoj.com/files/src/10980587/
+Download url: 	http://www.spoj.com/files/src/save/10980587
+Language: 		C++
+Problem name: 	ETF
+
+
+File url: 		http://www.spoj.com/files/src/10774251/
+Download url: 	http://www.spoj.com/files/src/save/10774251
+Language: 		JAVA
+Problem name: 	HPYNOS
+
+
+File url: 		http://www.spoj.com/files/src/10958076/
+Download url: 	http://www.spoj.com/files/src/save/10958076
+Language: 		JAVA
+Problem name: 	TWOSQRS
+
+
+File url: 		http://www.spoj.com/files/src/11833337/
+Download url: 	http://www.spoj.com/files/src/save/11833337
+Language: 		C++
+Problem name: 	ROADNET
+
+
+File url: 		http://www.spoj.com/files/src/9596629/
+Download url: 	http://www.spoj.com/files/src/save/9596629
+Language: 		JAVA
+Problem name: 	NOTATRI
+
+
+File url: 		http://www.spoj.com/files/src/10827928/
+Download url: 	http://www.spoj.com/files/src/save/10827928
+Language: 		JAVA
+Problem name: 	QUADAREA
+
+
+File url: 		http://www.spoj.com/files/src/11050994/
+Download url: 	http://www.spoj.com/files/src/save/11050994
+Language: 		JAVA
+Problem name: 	ANARC09A
+
+
+File url: 		http://www.spoj.com/files/src/10964041/
+Download url: 	http://www.spoj.com/files/src/save/10964041
+Language: 		JAVA
+Problem name: 	TRT
+
+
+File url: 		http://www.spoj.com/files/src/10903482/
+Download url: 	http://www.spoj.com/files/src/save/10903482
+Language: 		JAVA
+Problem name: 	BYTESM2
+
+
+File url: 		http://www.spoj.com/files/src/11920624/
+Download url: 	http://www.spoj.com/files/src/save/11920624
+Language: 		C++
+Problem name: 	CADYDIST
+
+
+File url: 		http://www.spoj.com/files/src/13576802/
+Download url: 	http://www.spoj.com/files/src/save/13576802
+Language: 		C++
+Problem name: 	ENIGMATH
+
+
+File url: 		http://www.spoj.com/files/src/9882993/
+Download url: 	http://www.spoj.com/files/src/save/9882993
+Language: 		JAVA
+Problem name: 	TRICOUNT
+
+
+File url: 		http://www.spoj.com/files/src/11811524/
+Download url: 	http://www.spoj.com/files/src/save/11811524
+Language: 		JAVA
+Problem name: 	ANARC08H
+
+
+File url: 		http://www.spoj.com/files/src/13599098/
+Download url: 	http://www.spoj.com/files/src/save/13599098
+Language: 		C++
+Problem name: 	PT07Z
+
+
+File url: 		http://www.spoj.com/files/src/9943017/
+Download url: 	http://www.spoj.com/files/src/save/9943017
+Language: 		JAVA
+Problem name: 	NGM
+
+
+File url: 		http://www.spoj.com/files/src/9880740/
+Download url: 	http://www.spoj.com/files/src/save/9880740
+Language: 		JAVA
+Problem name: 	EIGHTS
+
+
+File url: 		http://www.spoj.com/files/src/13530087/
+Download url: 	http://www.spoj.com/files/src/save/13530087
+Language: 		C++
+Problem name: 	HORRIBLE
+
+
+File url: 		http://www.spoj.com/files/src/11748000/
+Download url: 	http://www.spoj.com/files/src/save/11748000
+Language: 		JAVA
+Problem name: 	HOTELS
+
+
+File url: 		http://www.spoj.com/files/src/13557657/
+Download url: 	http://www.spoj.com/files/src/save/13557657
+Language: 		CPP
+Problem name: 	BYTESE2
+
+
+File url: 		http://www.spoj.com/files/src/13821294/
+Download url: 	http://www.spoj.com/files/src/save/13821294
+Language: 		C++
+Problem name: 	ANARC08G
+
+
+File url: 		http://www.spoj.com/files/src/11119773/
+Download url: 	http://www.spoj.com/files/src/save/11119773
+Language: 		JAVA
+Problem name: 	TRGRID
+
+
+File url: 		http://www.spoj.com/files/src/9929233/
+Download url: 	http://www.spoj.com/files/src/save/9929233
+Language: 		JAVA
+Problem name: 	PT07Y
+
+
+File url: 		http://www.spoj.com/files/src/11049233/
+Download url: 	http://www.spoj.com/files/src/save/11049233
+Language: 		JAVA
+Problem name: 	NEG2
+
+
+File url: 		http://www.spoj.com/files/src/11787603/
+Download url: 	http://www.spoj.com/files/src/save/11787603
+Language: 		JAVA
+Problem name: 	HISTOGRA
+
+
+File url: 		http://www.spoj.com/files/src/12192356/
+Download url: 	http://www.spoj.com/files/src/save/12192356
+Language: 		C++
+Problem name: 	PT07X
+
+
+File url: 		http://www.spoj.com/files/src/10760042/
+Download url: 	http://www.spoj.com/files/src/save/10760042
+Language: 		JAVA
+Problem name: 	EGYPIZZA
+
+
+File url: 		http://www.spoj.com/files/src/11914930/
+Download url: 	http://www.spoj.com/files/src/save/11914930
+Language: 		JAVA
+Problem name: 	AMR12D
+
+
+File url: 		http://www.spoj.com/files/src/16743916/
+Download url: 	http://www.spoj.com/files/src/save/16743916
+Language: 		C++
+Problem name: 	NAKANJ
+
+
+File url: 		http://www.spoj.com/files/src/16743179/
+Download url: 	http://www.spoj.com/files/src/save/16743179
+Language: 		C++
+Problem name: 	TOHU
+
+
+File url: 		http://www.spoj.com/files/src/12220619/
+Download url: 	http://www.spoj.com/files/src/save/12220619
+Language: 		JAVA
+Problem name: 	BYTESE1
+
+
+File url: 		http://www.spoj.com/files/src/10858370/
+Download url: 	http://www.spoj.com/files/src/save/10858370
+Language: 		JAVA
+Problem name: 	BYECAKES
+
+
+File url: 		http://www.spoj.com/files/src/12222115/
+Download url: 	http://www.spoj.com/files/src/save/12222115
+Language: 		C++
+Problem name: 	HIGHWAYS
+
+
+File url: 		http://www.spoj.com/files/src/13592582/
+Download url: 	http://www.spoj.com/files/src/save/13592582
+Language: 		C++
+Problem name: 	AMR11E
+
+
+File url: 		http://www.spoj.com/files/src/10987363/
+Download url: 	http://www.spoj.com/files/src/save/10987363
+Language: 		JAVA
+Problem name: 	PRIME1
+
+
+File url: 		http://www.spoj.com/files/src/13633075/
+Download url: 	http://www.spoj.com/files/src/save/13633075
+Language: 		C++
+Problem name: 	MYQ1
+
+
+File url: 		http://www.spoj.com/files/src/13806078/
+Download url: 	http://www.spoj.com/files/src/save/13806078
+Language: 		C++
+Problem name: 	HERDING
+
+
+File url: 		http://www.spoj.com/files/src/12040359/
+Download url: 	http://www.spoj.com/files/src/save/12040359
+Language: 		JAVA
+Problem name: 	TOE1
+
+
+File url: 		http://www.spoj.com/files/src/10786171/
+Download url: 	http://www.spoj.com/files/src/save/10786171
+Language: 		JAVA
+Problem name: 	EDIST
+
+
+File url: 		http://www.spoj.com/files/src/9829530/
+Download url: 	http://www.spoj.com/files/src/save/9829530
+Language: 		JAVA
+Problem name: 	TOANDFRO
+
+
+File url: 		http://www.spoj.com/files/src/13613271/
+Download url: 	http://www.spoj.com/files/src/save/13613271
+Language: 		JAVA
+Problem name: 	EC_CONB
+
+
+File url: 		http://www.spoj.com/files/src/16779360/
+Download url: 	http://www.spoj.com/files/src/save/16779360
+Language: 		C++
+Problem name: 	BWIDOW
+
+
+File url: 		http://www.spoj.com/files/src/11116623/
+Download url: 	http://www.spoj.com/files/src/save/11116623
+Language: 		JAVA
+Problem name: 	MRECAMAN
+
+
+File url: 		http://www.spoj.com/files/src/9875762/
+Download url: 	http://www.spoj.com/files/src/save/9875762
+Language: 		JAVA
+Problem name: 	HANGOVER
+
+
+File url: 		http://www.spoj.com/files/src/11018161/
+Download url: 	http://www.spoj.com/files/src/save/11018161
+Language: 		JAVA
+Problem name: 	AMR10G
+
+
+File url: 		http://www.spoj.com/files/src/13767963/
+Download url: 	http://www.spoj.com/files/src/save/13767963
+Language: 		C++
+Problem name: 	PQUEUE
+
+
+File url: 		http://www.spoj.com/files/src/13616202/
+Download url: 	http://www.spoj.com/files/src/save/13616202
+Language: 		C++
+Problem name: 	BUSYMAN
+
+
+File url: 		http://www.spoj.com/files/src/13761610/
+Download url: 	http://www.spoj.com/files/src/save/13761610
+Language: 		C++
+Problem name: 	ALIEN
+
+
+File url: 		http://www.spoj.com/files/src/11773935/
+Download url: 	http://www.spoj.com/files/src/save/11773935
+Language: 		JAVA
+Problem name: 	PPATH
+
+
+File url: 		http://www.spoj.com/files/src/12016129/
+Download url: 	http://www.spoj.com/files/src/save/12016129
+Language: 		C++
+Problem name: 	TETRA
+
+
+File url: 		http://www.spoj.com/files/src/10849240/
+Download url: 	http://www.spoj.com/files/src/save/10849240
+Language: 		JAVA
+Problem name: 	MISERMAN
+
+
+File url: 		http://www.spoj.com/files/src/11804642/
+Download url: 	http://www.spoj.com/files/src/save/11804642
+Language: 		C++
+Problem name: 	HACKRNDM
+
+
+File url: 		http://www.spoj.com/files/src/11059310/
+Download url: 	http://www.spoj.com/files/src/save/11059310
+Language: 		JAVA
+Problem name: 	DOTAA
+
+
+File url: 		http://www.spoj.com/files/src/13773713/
+Download url: 	http://www.spoj.com/files/src/save/13773713
+Language: 		C++
+Problem name: 	BUGLIFE
+
+
+File url: 		http://www.spoj.com/files/src/11014067/
+Download url: 	http://www.spoj.com/files/src/save/11014067
+Language: 		JAVA
+Problem name: 	AGGRCOW
+
+
+File url: 		http://www.spoj.com/files/src/8567947/
+Download url: 	http://www.spoj.com/files/src/save/8567947
+Language: 		JAVA
+Problem name: 	TEST
+
+
+File url: 		http://www.spoj.com/files/src/11760854/
+Download url: 	http://www.spoj.com/files/src/save/11760854
+Language: 		JAVA
+Problem name: 	POUR1
+
+
+File url: 		http://www.spoj.com/files/src/12024465/
+Download url: 	http://www.spoj.com/files/src/save/12024465
+Language: 		JAVA
+Problem name: 	GUESSTHE
+
+
+File url: 		http://www.spoj.com/files/src/13631484/
+Download url: 	http://www.spoj.com/files/src/save/13631484
+Language: 		C++
+Problem name: 	MICEMAZE
+
+
+File url: 		http://www.spoj.com/files/src/11868163/
+Download url: 	http://www.spoj.com/files/src/save/11868163
+Language: 		C++
+Problem name: 	DISUBSTR
+
+
+File url: 		http://www.spoj.com/files/src/13445090/
+Download url: 	http://www.spoj.com/files/src/save/13445090
+Language: 		C++
+Problem name: 	BRCKTS
+
+
+File url: 		http://www.spoj.com/files/src/13631890/
+Download url: 	http://www.spoj.com/files/src/save/13631890
+Language: 		C++
+Problem name: 	TEAM2
+
+
+File url: 		http://www.spoj.com/files/src/9853547/
+Download url: 	http://www.spoj.com/files/src/save/9853547
+Language: 		JAVA
+Problem name: 	AE00
+
+
+File url: 		http://www.spoj.com/files/src/11798629/
+Download url: 	http://www.spoj.com/files/src/save/11798629
+Language: 		JAVA
+Problem name: 	POLEVAL
+
+
+File url: 		http://www.spoj.com/files/src/10831020/
+Download url: 	http://www.spoj.com/files/src/save/10831020
+Language: 		JAVA
+Problem name: 	MFLAR10
+
+
+File url: 		http://www.spoj.com/files/src/11868156/
+Download url: 	http://www.spoj.com/files/src/save/11868156
+Language: 		C++
+Problem name: 	SUBST1
+
+
+File url: 		http://www.spoj.com/files/src/9827402/
+Download url: 	http://www.spoj.com/files/src/save/9827402
+Language: 		JAVA
+Problem name: 	ADDREV
+
+
+File url: 		http://www.spoj.com/files/src/10773454/
+Download url: 	http://www.spoj.com/files/src/save/10773454
+Language: 		JAVA
+Problem name: 	PIR
+
+
+File url: 		http://www.spoj.com/files/src/13488210/
+Download url: 	http://www.spoj.com/files/src/save/13488210
+Language: 		C++
+Problem name: 	GSS5
+
+
+File url: 		http://www.spoj.com/files/src/11057657/
+Download url: 	http://www.spoj.com/files/src/save/11057657
+Language: 		JAVA
+Problem name: 	DANGER
+
+
+File url: 		http://www.spoj.com/files/src/13557867/
+Download url: 	http://www.spoj.com/files/src/save/13557867
+Language: 		CPP
+Problem name: 	BOMARBLE
+
+
+File url: 		http://www.spoj.com/files/src/13593834/
+Download url: 	http://www.spoj.com/files/src/save/13593834
+Language: 		C++
+Problem name: 	DCEPC504
+
+
+File url: 		http://www.spoj.com/files/src/13793125/
+Download url: 	http://www.spoj.com/files/src/save/13793125
+Language: 		C++
+Problem name: 	BOTTOM
+
+
+File url: 		http://www.spoj.com/files/src/11830685/
+Download url: 	http://www.spoj.com/files/src/save/11830685
+Language: 		C++
+Problem name: 	STREETR
+
+
+File url: 		http://www.spoj.com/files/src/13749025/
+Download url: 	http://www.spoj.com/files/src/save/13749025
+Language: 		C++
+Problem name: 	ACS
+
+
+File url: 		http://www.spoj.com/files/src/11839075/
+Download url: 	http://www.spoj.com/files/src/save/11839075
+Language: 		C++
+Problem name: 	MCOINS
+
+
+File url: 		http://www.spoj.com/files/src/10174128/
+Download url: 	http://www.spoj.com/files/src/save/10174128
+Language: 		JAVA
+Problem name: 	PIGBANK
+
+
+File url: 		http://www.spoj.com/files/src/11056058/
+Download url: 	http://www.spoj.com/files/src/save/11056058
+Language: 		JAVA
+Problem name: 	MAYA
+
+
+File url: 		http://www.spoj.com/files/src/13481015/
+Download url: 	http://www.spoj.com/files/src/save/13481015
+Language: 		C++
+Problem name: 	GSS3
+
+
+File url: 		http://www.spoj.com/files/src/13612569/
+Download url: 	http://www.spoj.com/files/src/save/13612569
+Language: 		C++
+Problem name: 	BLINNET
+
+
+File url: 		http://www.spoj.com/files/src/9890621/
+Download url: 	http://www.spoj.com/files/src/save/9890621
+Language: 		JAVA
+Problem name: 	STPAR
+
+
+File url: 		http://www.spoj.com/files/src/9752349/
+Download url: 	http://www.spoj.com/files/src/save/9752349
+Language: 		JAVA
+Problem name: 	ACPC11B
+
+
+File url: 		http://www.spoj.com/files/src/10606591/
+Download url: 	http://www.spoj.com/files/src/save/10606591
+Language: 		JAVA
+Problem name: 	MAXLN
+
+
+File url: 		http://www.spoj.com/files/src/13588426/
+Download url: 	http://www.spoj.com/files/src/save/13588426
+Language: 		C++
+Problem name: 	CUBEFR
+
+
+File url: 		http://www.spoj.com/files/src/13476859/
+Download url: 	http://www.spoj.com/files/src/save/13476859
+Language: 		C++
+Problem name: 	GSS1
+
+
+File url: 		http://www.spoj.com/files/src/11796214/
+Download url: 	http://www.spoj.com/files/src/save/11796214
+Language: 		JAVA
+Problem name: 	PHONELST
+
+
+File url: 		http://www.spoj.com/files/src/9973997/
+Download url: 	http://www.spoj.com/files/src/save/9973997
+Language: 		JAVA
+Problem name: 	BITMAP
+
+
+File url: 		http://www.spoj.com/files/src/9885173/
+Download url: 	http://www.spoj.com/files/src/save/9885173
+Language: 		JAVA
+Problem name: 	STAMPS
+
+
+File url: 		http://www.spoj.com/files/src/16925275/
+Download url: 	http://www.spoj.com/files/src/save/16925275
+Language: 		C++
+Problem name: 	PFDEP
+
+
+File url: 		http://www.spoj.com/files/src/9728843/
+Download url: 	http://www.spoj.com/files/src/save/9728843
+Language: 		JAVA
+Problem name: 	ACPC10A
+
+
+File url: 		http://www.spoj.com/files/src/11041181/
+Download url: 	http://www.spoj.com/files/src/save/11041181
+Language: 		JAVA
+Problem name: 	CPRMT
+
+
+File url: 		http://www.spoj.com/files/src/13591282/
+Download url: 	http://www.spoj.com/files/src/save/13591282
+Language: 		C++
+Problem name: 	ABCPATH
+
+
+File url: 		http://www.spoj.com/files/src/12219811/
+Download url: 	http://www.spoj.com/files/src/save/12219811
+Language: 		C++
+Problem name: 	BENEFACT
+
+
+File url: 		http://www.spoj.com/files/src/13646248/
+Download url: 	http://www.spoj.com/files/src/save/13646248
+Language: 		C++
+Problem name: 	PEBBLE
+
+
+File url: 		http://www.spoj.com/files/src/10926063/
+Download url: 	http://www.spoj.com/files/src/save/10926063
+Language: 		JAVA
+Problem name: 	SILVER
+
+
+File url: 		http://www.spoj.com/files/src/9874229/
+Download url: 	http://www.spoj.com/files/src/save/9874229
+Language: 		JAVA
+Problem name: 	COINS
+
+
+File url: 		http://www.spoj.com/files/src/13442524/
+Download url: 	http://www.spoj.com/files/src/save/13442524
+Language: 		C++
+Problem name: 	MARBLES
+
+
+File url: 		http://www.spoj.com/files/src/13717317/
+Download url: 	http://www.spoj.com/files/src/save/13717317
+Language: 		C++
+Problem name: 	LITE
+
+
+File url: 		http://www.spoj.com/files/src/13733900/
+Download url: 	http://www.spoj.com/files/src/save/13733900
+Language: 		C++
+Problem name: 	GAMES
+
+
+File url: 		http://www.spoj.com/files/src/9983895/
+Download url: 	http://www.spoj.com/files/src/save/9983895
+Language: 		JAVA
+Problem name: 	BEENUMS
+
+
+File url: 		http://www.spoj.com/files/src/11896532/
+Download url: 	http://www.spoj.com/files/src/save/11896532
+Language: 		C++
+Problem name: 	SHPATH
+
+
+File url: 		http://www.spoj.com/files/src/11148211/
+Download url: 	http://www.spoj.com/files/src/save/11148211
+Language: 		JAVA
+Problem name: 	ABCDEF
+
+
+File url: 		http://www.spoj.com/files/src/11761994/
+Download url: 	http://www.spoj.com/files/src/save/11761994
+Language: 		JAVA
+Problem name: 	LENGFACT
+
+
+File url: 		http://www.spoj.com/files/src/10924816/
+Download url: 	http://www.spoj.com/files/src/save/10924816
+Language: 		JAVA
+Problem name: 	PARTY
+
+
+File url: 		http://www.spoj.com/files/src/13644965/
+Download url: 	http://www.spoj.com/files/src/save/13644965
+Language: 		C++
+Problem name: 	FISHER
+
+
+File url: 		http://www.spoj.com/files/src/13729366/
+Download url: 	http://www.spoj.com/files/src/save/13729366
+Language: 		C++
+Problem name: 	BANDW
+
+
+File url: 		http://www.spoj.com/files/src/13759743/
+Download url: 	http://www.spoj.com/files/src/save/13759743
+Language: 		C++
+Problem name: 	CLONE
+
+
+File url: 		http://www.spoj.com/files/src/12009064/
+Download url: 	http://www.spoj.com/files/src/save/12009064
+Language: 		JAVA
+Problem name: 	SHOP
+
+
+File url: 		http://www.spoj.com/files/src/9643472/
+Download url: 	http://www.spoj.com/files/src/save/9643472
+Language: 		JAVA
+Problem name: 	ABCD
+
+
+File url: 		http://www.spoj.com/files/src/11000429/
+Download url: 	http://www.spoj.com/files/src/save/11000429
+Language: 		JAVA
+Problem name: 	PALIN
+
+
+File url: 		http://www.spoj.com/files/src/9851777/
+Download url: 	http://www.spoj.com/files/src/save/9851777
+Language: 		C++
+Problem name: 	LASTDIG
+
+
+File url: 		http://www.spoj.com/files/src/10870931/
+Download url: 	http://www.spoj.com/files/src/save/10870931
+Language: 		JAVA
+Problem name: 	FIBOSUM
+
+
+File url: 		http://www.spoj.com/files/src/14686441/
+Download url: 	http://www.spoj.com/files/src/save/14686441
+Language: 		C++
+Problem name: 	CIRCLE_E
+
+
+File url: 		http://www.spoj.com/files/src/11940177/
+Download url: 	http://www.spoj.com/files/src/save/11940177
+Language: 		JAVA
+Problem name: 	BABTWR
+
+
