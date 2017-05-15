@@ -34,7 +34,7 @@ A script written using Scrapy, a Python framework to extract data from websites.
    ```
    scrapy crawl spoj
    ```
-   and hit enter. Provide your username and password when asked for. This might take few seconds. </br>
+   Provide your username and password when asked for. This might take few seconds. </br>
    
    When the process is complete, you'll see a newly created folder named ```codes```. This folder will contain all the downloaded files.
                                 
