@@ -12,17 +12,17 @@ http://www.spoj.com/users/codegagu/
 
 2) Understand the File Structure 
 
-tutorial/</br>
-   - scrapy.cfg                  # deploy configuration file</br>
-   - tutorial/                   # project's Python module, we'll import our code from here</br>
-      - __init__.py</br>
-      - items.py                # project items definition file</br>
-      - pipelines.py            # project pipelines file</br>
-      - settings.py             # project settings file</br>
-      - spiders/                # a directory where we put our spiders</br>
-         - __pycache__</br>
+   - tutorial/</br>
+      - scrapy.cfg &nbsp;&nbsp;&nbsp;# deploy configuration file</br>
+      - tutorial/  &nbsp;&nbsp;&nbsp;# project's Python module, we'll import our code from here</br>
          - __init__.py</br>
-         - login_spider.py     # My python script which contains all the code.</br>
-         - output.txt          # Text file for illustration purpose. It will store details about each solved problem.</br>
-         - codes               # A directory not initially present, but is created after the login spider is executed. It will store all the downloaded solutions.</br>
+         - items.py &nbsp;&nbsp;&nbsp;# project items definition file</br>
+         - pipelines.py &nbsp;&nbsp;&nbsp;# project pipelines file</br>
+         - settings.py             # project settings file</br>
+         - spiders/                # a directory where we put our spiders</br>
+            - __pycache__</br>
+            - __init__.py</br>
+            - login_spider.py     # My python script which contains all the code.</br>
+            - output.txt          # Text file for illustration purpose. It will store details about each solved problem.</br>
+            - codes               # A directory not initially present, but is created after the login spider is executed. It will store all the downloaded solutions.</br>
                                 
