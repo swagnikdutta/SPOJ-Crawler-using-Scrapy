@@ -2,7 +2,7 @@
 
 # What is it? 
 A script written using Scrapy, a Python framework to extract data from websites. It automates the task of signing in to my SPOJ account and download my accepted solutions to various algorithmic problems. </br>
-http://www.spoj.com/users/codegagu/
+[See my profile on SPOJ](http://www.spoj.com/users/codegagu/)
 
 # How to use
 1) Install Scrapy </br>
@@ -12,17 +12,31 @@ http://www.spoj.com/users/codegagu/
 
 2) Understand the File Structure 
 
-   - tutorial/</br>
-      - scrapy.cfg &nbsp;&nbsp;&nbsp;# deploy configuration file</br>
-      - tutorial/  &nbsp;&nbsp;&nbsp;# project's Python module, we'll import our code from here</br>
-         - __init__.py</br>
-         - items.py &nbsp;&nbsp;&nbsp;# project items definition file</br>
-         - pipelines.py &nbsp;&nbsp;&nbsp;# project pipelines file</br>
-         - settings.py             # project settings file</br>
-         - spiders/                # a directory where we put our spiders</br>
-            - __pycache__</br>
-            - __init__.py</br>
-            - login_spider.py     # My python script which contains all the code.</br>
-            - output.txt          # Text file for illustration purpose. It will store details about each solved problem.</br>
-            - codes               # A directory not initially present, but is created after the login spider is executed. It will store all the downloaded solutions.</br>
+   - tutorial/
+      - scrapy.cfg 
+      - tutorial/  
+         - __init__.py
+         - items.py
+         - pipelines.py
+         - settings.py 
+         - spiders/    
+            - __pycache__
+            - __init__.py
+            - login_spider.py
+            - output.txt     
+            - codes          
+
+3) How to run:
+   
+   Open command prompt and navigate to the spiders folder and run the following command</br>
+   ```
+   scrapy crawl spoj
+   ```
+   and hit enter. Provide your username and password when asked for. This might take few seconds. </br>
+   
+   When the process is complete, you'll see a newly created folder named ```codes```. This folder will contain all the downloaded files.
                                 
+
+NOTE: This spider will not download problem solutions which are in ```TEXT``` format. Presently it supports C, C++, Java, CPP14, PYTHON, PYTHON3. I will add more later.
+
+That's all folks!
