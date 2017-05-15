@@ -9,8 +9,10 @@ A script written using Scrapy, a Python framework to extract data from websites.
 
    https://docs.scrapy.org/en/latest/intro/install.html </br>
    Tip: Installation using Anaconda is easier since pip might have dependency issues. 
+   
+2) Fork this repository and clone to dekstop.
 
-2) Understand the File Structure 
+3) Understand the File Structure 
 
    - tutorial/
       - scrapy.cfg 
@@ -26,7 +28,7 @@ A script written using Scrapy, a Python framework to extract data from websites.
             - output.txt     
             - codes          
 
-3) How to run:
+4) How to run:
    
    Open command prompt and navigate to the spiders folder and run the following command</br>
    ```
