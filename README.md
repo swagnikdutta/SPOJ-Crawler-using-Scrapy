@@ -1,4 +1,4 @@
-# SPOJ-Crawler-using-Scrapy
+# SPOJ Crawler using Scrapy
 
 # What is it? 
 A script written using Scrapy, a Python framework to extract data from websites. It automates the task of signing in to my SPOJ account and download my accepted solutions to various algorithmic problems. </br>
