@@ -1,6 +1,6 @@
 # SPOJ Crawler using Scrapy
 
-# What is it? 
+# What it is 
 A script written using Scrapy, a Python framework to extract data from websites. It automates the task of signing in to my SPOJ account and download my accepted solutions to various algorithmic problems. </br>
 [See my profile on SPOJ](http://www.spoj.com/users/codegagu/)
 
@@ -40,7 +40,7 @@ A script written using Scrapy, a Python framework to extract data from websites.
    
 # See it working 
 
-   [Watch video](https://www.youtube.com/watch?v=Yv1_O172x9A)
+   [Watch it work on youtube](https://www.youtube.com/watch?v=Yv1_O172x9A)
                                 
 
 NOTE: This spider will not download problem solutions which are in ```TEXT``` format. Presently it supports C, C++, Java, CPP14, PYTHON, PYTHON3. I will add more later.
