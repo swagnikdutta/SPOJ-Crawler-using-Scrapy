@@ -37,8 +37,12 @@ A script written using Scrapy, a Python framework to extract data from websites.
    Provide your username and password when asked for. This might take few seconds. </br>
    
    When the process is complete, you'll see a newly created folder named ```codes```. This folder will contain all the downloaded files.
+   
+# See it working 
+
+   [Watch video] (https://www.youtube.com/watch?v=Yv1_O172x9A)
                                 
 
 NOTE: This spider will not download problem solutions which are in ```TEXT``` format. Presently it supports C, C++, Java, CPP14, PYTHON, PYTHON3. I will add more later.
 
-That's all folks!
+
