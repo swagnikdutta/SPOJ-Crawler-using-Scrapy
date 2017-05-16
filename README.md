@@ -40,7 +40,7 @@ A script written using Scrapy, a Python framework to extract data from websites.
    
 # See it working 
 
-   [Watch video] (https://www.youtube.com/watch?v=Yv1_O172x9A)
+   [Watch video](https://www.youtube.com/watch?v=Yv1_O172x9A)
                                 
 
 NOTE: This spider will not download problem solutions which are in ```TEXT``` format. Presently it supports C, C++, Java, CPP14, PYTHON, PYTHON3. I will add more later.
